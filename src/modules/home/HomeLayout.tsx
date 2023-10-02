@@ -152,7 +152,7 @@ const HomeLayout = () => {
               </div>
               <div>
                 <a
-                  href="https://github.com/sadanandpai/resume-builder"
+                  href="https://github.com/satyabrata860/dev.resume.io"
                   target="_blank"
                   rel="noreferrer"
                 >
