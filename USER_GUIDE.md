@@ -4,7 +4,7 @@ Web-DEV.Resume Builder works best on a desktop.
 
 ## Building a Resume
 
-1. Visit https://web-dev-resume.vercel.app/
+1. Visit https://dev-resume-io.vercel.app/
 1. Select "Editor" in the top pane
 1. Select "TEMPLATES" in the top pane and select your desired template
 1. Select "COLOURS" in the top pane and select your desired color scheme
