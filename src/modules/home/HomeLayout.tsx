@@ -171,7 +171,7 @@ const HomeLayout = () => {
         className="mx-6 md:mx-40 xl:mx-60 my-32"
         style={{ fontFamily: "'Roboto Slab', serif" }}
       >
-        <h2 className="text-resume-800 text-3xl mb-2 text-center lg:text-left">About us</h2>
+        <h2 className="text-resume-800 text-3xl mb-2 text-center lg:text-left">About ME</h2>
         <p className="text-resume-400 mb-8 text-center lg:text-left">
           A developer and designer — who love to build open source projects and learn
           along!
