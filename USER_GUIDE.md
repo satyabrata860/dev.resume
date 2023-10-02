@@ -14,7 +14,7 @@ Web-DEV.Resume Builder works best on a desktop.
     - Download the resume as a PDF by selecting "DOWNLOAD AS PDF" in the top pane
 
 ## Editing a Resume
-1. Visit https://web-dev-resume.vercel.app/
+1. Visit https://dev-resume-io.vercel.app/
 1. Select "Editor" in the top pane
 1. Select "Import in the top pane". Import the JSON that was generated in the [Building a Resume](#building-a-resume) section.
 
