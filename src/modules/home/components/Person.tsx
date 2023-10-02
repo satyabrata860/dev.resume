@@ -4,7 +4,7 @@ const persons = [
   {
     name: 'Satyabrata Pradhan',
     role: 'Frontend developer',
-    avatar: 'https://ik.imagekit.io/satya10/mine-min.png?updatedAt=1693804375343',
+    avatar: 'https://avatars.githubusercontent.com/u/99580536?v=4',
     github: 'https://github.com/satyabrata860/',
     linkedin: 'https://www.linkedin.com/in/spradhan860/',
   },
