@@ -2,34 +2,12 @@ import Image from 'next/image';
 
 const persons = [
   {
-    name: 'Sadanand Pai',
+    name: 'Satyabrata Pradhan',
     role: 'Frontend developer',
-    avatar: 'https://avatars.githubusercontent.com/u/12962887?v=4',
-    github: 'https://github.com/sadanandpai',
-    linkedin: 'https://www.linkedin.com/in/sadanandpai/',
+    avatar: 'https://ik.imagekit.io/satya10/mine-min.png?updatedAt=1693804375343',
+    github: 'https://github.com/satyabrata860/',
+    linkedin: 'https://www.linkedin.com/in/spradhan860/',
   },
-  {
-    name: 'Gopalakrishnan',
-    role: 'Frontend developer',
-    avatar: 'https://avatars.githubusercontent.com/u/22369081?v=4',
-    github: 'https://github.com/gopal1996',
-    linkedin: 'https://www.linkedin.com/in/gopal1996',
-  },
-  {
-    name: 'Vivek G',
-    role: 'Product designer, half developer',
-    avatar: 'https://avatars.githubusercontent.com/u/26523871?v=4',
-    github: 'https://github.com/yakshaG',
-    linkedin: 'https://www.linkedin.com/in/vivek-g-india',
-  },
-  {
-    name: 'Siva K',
-    role: 'Frontend developer',
-    avatar: 'https://avatars.githubusercontent.com/u/60533560?v=4',
-    github: 'https://github.com/siva-kannan3',
-    linkedin: 'https://www.linkedin.com/in/siva-kannan3/',
-  },
-];
 
 const PersonCard = ({ children }: { children: React.ReactNode }) => (
   <div className="transition ease-in-out delay-100 duration-300 px-6 py-8 flex flex-col items-center text-center shadow hover:shadow-xl rounded-xl border-2 border-resume-50 hover:border-resume-100">
