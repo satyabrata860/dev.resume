@@ -20,16 +20,26 @@
     "profiles": [
       {
         "network": "linkedin",
-        "username": "#",
-        "url": "#"
+        "username": "",
+        "url": ""
       },
       {
         "network": "twitter",
-        "username": "#",
-        "url": "#"
+        "username": "",
+        "url": ""
       },
       {
         "network": "github",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "Facebook",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "Instagram",
         "username": "",
         "url": ""
       },
@@ -39,19 +49,9 @@
         "url": ""
       },
       {
-        "network": "hackerearth",
+        "network": "leetcode",
         "username": "",
         "url": ""
-      },
-      {
-        "network": "codechef",
-        "username": "#",
-        "url": "#"
-      },
-      {
-        "network": "leetcode",
-        "username": "#",
-        "url": "#"
       }
     ]
   },
