@@ -44,7 +44,7 @@ const HomeLayout = () => {
               <StyledButton variant="text">About ME</StyledButton>
             </Link>
             <a
-              href={'https://github.com/sadanandpai/resume-builder'}
+              href={'https://github.com/satyabrata860'}
               target="_blank"
               rel="noopener noreferrer"
             >
