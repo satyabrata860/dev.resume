@@ -179,8 +179,18 @@ const HomeLayout = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           <Person />
         </div>
-  ↗
-</p>
+ <p className="text-resume-400 my-8 text-center lg:text-left">
+          Want to work&nbsp;
+          <a
+            href="mailto:spradhan860@gmail.com?"
+            target="_blank"
+            rel="noreferrer"
+            className="underline"
+          >
+            With ME!
+          </a>
+          ↗
+        </p>
       </div>
     </motion.div>
   );
